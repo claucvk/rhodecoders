@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: beige;
+  font-family: cursive;
+  color: blue;
+}
+
+h1 {
+  color:darkgreen;
+}
+
+td img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  border-radius: 50%;
+  width: 60px;
+  background-color: lightgreen;
+  font-weight: 300;
+}
+
+.cell {
+  width: 70px;
+  height: 70px;
+  border-left: 2px solid black;
+  border-bottom: 1px dashed black;
+  color: black;
+}
+
+.cellright {
+  width: 70px;
+  height: 70px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 1px dashed black;
+  color: black;
+}
